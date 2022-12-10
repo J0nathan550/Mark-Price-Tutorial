@@ -1,0 +1,15 @@
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\bin\Debug\net6.0\Mark Price Tutorial.exe
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\bin\Debug\net6.0\Mark Price Tutorial.deps.json
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\bin\Debug\net6.0\Mark Price Tutorial.runtimeconfig.json
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\bin\Debug\net6.0\Mark Price Tutorial.dll
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\bin\Debug\net6.0\Mark Price Tutorial.pdb
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\obj\Debug\net6.0\Mark Price Tutorial.csproj.AssemblyReference.cache
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\obj\Debug\net6.0\Mark Price Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\obj\Debug\net6.0\Mark Price Tutorial.AssemblyInfoInputs.cache
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\obj\Debug\net6.0\Mark Price Tutorial.AssemblyInfo.cs
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\obj\Debug\net6.0\Mark Price Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\obj\Debug\net6.0\Mark Price Tutorial.dll
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\obj\Debug\net6.0\refint\Mark Price Tutorial.dll
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\obj\Debug\net6.0\Mark Price Tutorial.pdb
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\obj\Debug\net6.0\Mark Price Tutorial.genruntimeconfig.cache
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\obj\Debug\net6.0\ref\Mark Price Tutorial.dll
