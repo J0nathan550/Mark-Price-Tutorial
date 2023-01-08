@@ -1,0 +1,5 @@
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.csproj.AssemblyReference.cache
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.AssemblyInfoInputs.cache
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.AssemblyInfo.cs
+C:\Users\J0nathan550\Visual Projects\Mark Price Tutorial\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.csproj.CoreCompileInputs.cache
